@@ -1,4 +1,6 @@
 #include "Point.h"
+#include "../lab03/Point.h"
+
 #include <iostream>
 #include <valarray>
 #include <set>
@@ -58,4 +60,5 @@ void testIsSquare(const char * filename){
     }
 
 }
+
 
