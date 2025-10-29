@@ -17,7 +17,7 @@ private:
     static int counter;
     int id;
     string name;
-    
+
 };
 
 
