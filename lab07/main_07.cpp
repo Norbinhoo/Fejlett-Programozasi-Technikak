@@ -87,6 +87,6 @@ int main() {
         cout<<months[i]<<endl;
     }
 
-    
+
     return 0;
 }
