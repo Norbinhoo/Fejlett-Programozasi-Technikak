@@ -3,4 +3,5 @@ add_executable(lab10 main_10.cpp
         Student.cpp
         Student.h
         GraduationDao.cpp
-        GraduationDao.h)
+        GraduationDao.h
+        ../lab11/Settlement.h)

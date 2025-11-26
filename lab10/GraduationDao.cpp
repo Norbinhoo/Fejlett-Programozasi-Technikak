@@ -24,7 +24,7 @@ void GraduationDao::enrollStudents(const string &filename){
 }
 
 void GraduationDao::readGradesSubject(const string &subject, const string &filename) {
-    
+
 }
 
 void GraduationDao::computeAverage() {
